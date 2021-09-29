@@ -17,7 +17,7 @@ namespace test.Controllers
         {
             ViewBag.Message = "Hello GitHub.";
             ViewBag.Message = "Hello Git.";
-            ViewBag.Message = "Hello C#.";
+            ViewBag.Message = "Hello C# .";
 
             return View();
         }
