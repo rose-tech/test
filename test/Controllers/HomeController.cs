@@ -16,6 +16,7 @@ namespace test.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Hello GitHub.";
+            ViewBag.Message = "Hello Git.";
 
             return View();
         }
